@@ -5,7 +5,7 @@
     "roast": 1,
     "userinfo": 1,
     "mute": 6,
-    "unmute": 2,
+    "unmute": 3,
     "clear": 2,
     "help": 1
   },
@@ -20,6 +20,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 2,
-  "total_commands": 17,
-  "updated_at": "2026-06-03T15:33:39+00:00"
+  "total_commands": 18,
+  "updated_at": "2026-06-03T15:38:39+00:00"
 }

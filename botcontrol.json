@@ -1,0 +1,15 @@
+{
+  "modules": {
+    "love": false,
+    "court": true,
+    "release_watcher": true
+  },
+  "commands": {},
+  "love": {
+    "cooldown": 0,
+    "result_channel_id": 0,
+    "template": ""
+  },
+  "sync_token": "",
+  "updated_at": "2026-06-03T11:50:45+00:00"
+}

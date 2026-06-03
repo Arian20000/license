@@ -2,7 +2,8 @@
   "modules": {
     "love": true,
     "court": true,
-    "release_watcher": true
+    "release_watcher": true,
+    "moderation": true
   },
   "commands": {},
   "love": {
@@ -10,8 +11,8 @@
     "result_channel_id": 0,
     "template": "test"
   },
-  "sync_token": "fd3fb44c79bf",
+  "sync_token": "17b42a707418",
   "power": "running",
   "restart_token": "6b67599414ea",
-  "updated_at": "2026-06-03T12:19:34+00:00"
+  "updated_at": "2026-06-03T12:33:28+00:00"
 }

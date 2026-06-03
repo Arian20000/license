@@ -2,7 +2,7 @@
   "agent_online": true,
   "bot_running": true,
   "power": "running",
-  "pid": 10728,
-  "restarts": 0,
-  "updated_at": "2026-06-03T13:03:50+00:00"
+  "pid": 9804,
+  "restarts": 1,
+  "updated_at": "2026-06-03T13:08:55+00:00"
 }

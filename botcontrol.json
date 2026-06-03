@@ -6,12 +6,12 @@
   },
   "commands": {},
   "love": {
-    "cooldown": 0,
+    "cooldown": 5,
     "result_channel_id": 0,
-    "template": ""
+    "template": "test"
   },
   "sync_token": "fd3fb44c79bf",
   "power": "running",
   "restart_token": "6b67599414ea",
-  "updated_at": "2026-06-03T12:18:30+00:00"
+  "updated_at": "2026-06-03T12:19:34+00:00"
 }

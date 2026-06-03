@@ -4,9 +4,9 @@
     "banned": 2,
     "roast": 8,
     "userinfo": 1,
-    "mute": 6,
+    "mute": 7,
     "unmute": 3,
-    "clear": 2,
+    "clear": 5,
     "help": 1,
     "owner": 1
   },
@@ -21,6 +21,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 3,
-  "total_commands": 35,
-  "updated_at": "2026-06-03T17:28:39+00:00"
+  "total_commands": 39,
+  "updated_at": "2026-06-03T17:34:06+00:00"
 }

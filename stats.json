@@ -6,7 +6,8 @@
     "userinfo": 1,
     "mute": 4,
     "unmute": 2,
-    "clear": 1
+    "clear": 1,
+    "help": 1
   },
   "love": {
     "uses": 1,
@@ -19,6 +20,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 2,
-  "total_commands": 13,
-  "updated_at": "2026-06-03T12:48:07+00:00"
+  "total_commands": 14,
+  "updated_at": "2026-06-03T13:09:30+00:00"
 }

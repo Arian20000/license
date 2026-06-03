@@ -7,12 +7,12 @@
   },
   "commands": {},
   "love": {
-    "cooldown": 5,
+    "cooldown": 10,
     "result_channel_id": 0,
-    "template": "test"
+    "template": "Such love in the air, you could feel it. Enjoy the life."
   },
   "sync_token": "19caf9c228a3",
   "power": "running",
   "restart_token": "155c580a111e",
-  "updated_at": "2026-06-03T13:04:33+00:00"
+  "updated_at": "2026-06-03T16:47:44+00:00"
 }

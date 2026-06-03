@@ -11,5 +11,7 @@
     "template": ""
   },
   "sync_token": "",
-  "updated_at": "2026-06-03T11:53:47+00:00"
+  "power": "running",
+  "restart_token": "6b67599414ea",
+  "updated_at": "2026-06-03T12:06:43+00:00"
 }

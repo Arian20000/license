@@ -1,19 +1,20 @@
 {
   "commands": {
-    "love": 1,
-    "banned": 1
+    "love": 2,
+    "banned": 2,
+    "roast": 1
   },
   "love": {
-    "uses": 0,
-    "avg_pct": 0.0,
-    "max": 0,
-    "min": 0
+    "uses": 1,
+    "avg_pct": 87.0,
+    "max": 87,
+    "min": 87
   },
   "banned": {
-    "uses": 1,
-    "avg_pct": 44.0
+    "uses": 2,
+    "avg_pct": 64.5
   },
   "unique_users": 1,
-  "total_commands": 2,
-  "updated_at": "2026-06-03T10:51:54+00:00"
+  "total_commands": 5,
+  "updated_at": "2026-06-03T11:55:40+00:00"
 }

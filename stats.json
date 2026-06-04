@@ -2,7 +2,7 @@
   "commands": {
     "love": 49,
     "banned": 2,
-    "roast": 27,
+    "roast": 28,
     "userinfo": 2,
     "mute": 9,
     "unmute": 4,
@@ -22,7 +22,7 @@
     "uses": 2,
     "avg_pct": 64.5
   },
-  "unique_users": 8,
-  "total_commands": 105,
-  "updated_at": "2026-06-04T16:06:28+00:00"
+  "unique_users": 9,
+  "total_commands": 106,
+  "updated_at": "2026-06-04T16:11:28+00:00"
 }

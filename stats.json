@@ -1,8 +1,8 @@
 {
   "commands": {
-    "love": 46,
+    "love": 47,
     "banned": 2,
-    "roast": 19,
+    "roast": 26,
     "userinfo": 2,
     "mute": 9,
     "unmute": 4,
@@ -13,8 +13,8 @@
     "ask": 1
   },
   "love": {
-    "uses": 45,
-    "avg_pct": 59.6,
+    "uses": 47,
+    "avg_pct": 60.0,
     "max": 100,
     "min": 0
   },
@@ -22,7 +22,7 @@
     "uses": 2,
     "avg_pct": 64.5
   },
-  "unique_users": 7,
-  "total_commands": 94,
-  "updated_at": "2026-06-04T15:56:28+00:00"
+  "unique_users": 8,
+  "total_commands": 102,
+  "updated_at": "2026-06-04T16:01:28+00:00"
 }

@@ -2,7 +2,7 @@
   "commands": {
     "love": 50,
     "banned": 2,
-    "roast": 30,
+    "roast": 31,
     "userinfo": 2,
     "mute": 9,
     "unmute": 4,
@@ -10,7 +10,7 @@
     "help": 1,
     "owner": 4,
     "joke": 1,
-    "ask": 1,
+    "ask": 3,
     "settranslatechannel": 2,
     "translate": 1
   },
@@ -25,6 +25,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 9,
-  "total_commands": 112,
-  "updated_at": "2026-06-05T10:52:08+00:00"
+  "total_commands": 115,
+  "updated_at": "2026-06-05T10:57:08+00:00"
 }

@@ -4,11 +4,11 @@
     "banned": 2,
     "roast": 37,
     "userinfo": 2,
-    "mute": 9,
+    "mute": 10,
     "unmute": 4,
     "clear": 5,
     "help": 1,
-    "owner": 6,
+    "owner": 7,
     "joke": 1,
     "ask": 3,
     "settranslatechannel": 2,
@@ -25,6 +25,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 9,
-  "total_commands": 123,
-  "updated_at": "2026-06-05T11:07:08+00:00"
+  "total_commands": 125,
+  "updated_at": "2026-06-05T11:12:08+00:00"
 }

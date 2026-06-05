@@ -10,7 +10,8 @@
     "help": 1,
     "owner": 4,
     "joke": 1,
-    "ask": 1
+    "ask": 1,
+    "settranslatechannel": 1
   },
   "love": {
     "uses": 48,
@@ -23,6 +24,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 9,
-  "total_commands": 106,
-  "updated_at": "2026-06-04T16:11:28+00:00"
+  "total_commands": 107,
+  "updated_at": "2026-06-05T06:46:40+00:00"
 }

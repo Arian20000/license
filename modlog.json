@@ -4,6 +4,17 @@
       "action": "mute",
       "moderator": "denari_24",
       "moderator_id": "623910555479965715",
+      "target": "tutongnapandesal_36556",
+      "target_id": "1376488111369879592",
+      "reason": "Goodnight",
+      "detail": "Duration 50000h",
+      "guild": "ETW Chill Zone",
+      "at": "2026-06-06T20:13:06+00:00"
+    },
+    {
+      "action": "mute",
+      "moderator": "denari_24",
+      "moderator_id": "623910555479965715",
       "target": "mvgetsu_75z",
       "target_id": "1154112304443568178",
       "reason": "ur not my leader.",
@@ -100,5 +111,5 @@
       "at": "2026-06-03T17:30:02+00:00"
     }
   ],
-  "updated_at": "2026-06-06T19:28:16+00:00"
+  "updated_at": "2026-06-06T20:13:06+00:00"
 }

@@ -3,7 +3,7 @@
     "love": true,
     "court": true,
     "release_watcher": true,
-    "moderation": false,
+    "moderation": true,
     "translate": true
   },
   "commands": {},
@@ -33,5 +33,5 @@
   "sync_token": "c5cafb3a3293",
   "power": "running",
   "restart_token": "155c580a111e",
-  "updated_at": "2026-06-08T13:17:38+00:00"
+  "updated_at": "2026-06-08T13:17:39+00:00"
 }

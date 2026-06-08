@@ -3,7 +3,8 @@
     "love": true,
     "court": true,
     "release_watcher": true,
-    "moderation": true
+    "moderation": false,
+    "translate": true
   },
   "commands": {},
   "love": {
@@ -11,8 +12,26 @@
     "result_channel_id": 0,
     "template": "Such love in the air, you could feel it. Enjoy the life."
   },
+  "translate": {
+    "auto_enabled": true,
+    "ttl": 20,
+    "min_chars": 3
+  },
+  "presence": {
+    "status": "idle",
+    "activity_type": "custom",
+    "activity_text": "",
+    "activity_emoji": ""
+  },
+  "announce": {
+    "announce_channel_id": 0
+  },
+  "ai": {
+    "model": "",
+    "max_reply": 1900
+  },
   "sync_token": "c5cafb3a3293",
   "power": "running",
   "restart_token": "155c580a111e",
-  "updated_at": "2026-06-03T16:48:19+00:00"
+  "updated_at": "2026-06-08T13:17:38+00:00"
 }

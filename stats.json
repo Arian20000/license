@@ -15,7 +15,7 @@
     "translate": 1,
     "addkey": 3,
     "8ball": 1,
-    "addpremium": 1
+    "addpremium": 2
   },
   "love": {
     "uses": 50,
@@ -28,6 +28,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 11,
-  "total_commands": 157,
-  "updated_at": "2026-06-09T11:42:20+00:00"
+  "total_commands": 158,
+  "updated_at": "2026-06-09T11:47:20+00:00"
 }

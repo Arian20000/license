@@ -2,7 +2,7 @@
   "commands": {
     "love": 51,
     "banned": 2,
-    "roast": 62,
+    "roast": 63,
     "userinfo": 11,
     "mute": 14,
     "unmute": 6,
@@ -15,7 +15,9 @@
     "translate": 1,
     "addkey": 5,
     "8ball": 1,
-    "addpremium": 5
+    "addpremium": 5,
+    "setwelcomechannel": 1,
+    "kick": 1
   },
   "love": {
     "uses": 50,
@@ -28,6 +30,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 11,
-  "total_commands": 180,
-  "updated_at": "2026-06-14T09:56:41+00:00"
+  "total_commands": 183,
+  "updated_at": "2026-06-14T10:07:11+00:00"
 }

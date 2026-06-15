@@ -2,8 +2,8 @@
   "commands": {
     "love": 51,
     "banned": 2,
-    "roast": 63,
-    "userinfo": 11,
+    "roast": 65,
+    "userinfo": 13,
     "mute": 14,
     "unmute": 6,
     "clear": 6,
@@ -29,7 +29,7 @@
     "uses": 2,
     "avg_pct": 64.5
   },
-  "unique_users": 11,
-  "total_commands": 183,
-  "updated_at": "2026-06-14T10:07:11+00:00"
+  "unique_users": 12,
+  "total_commands": 187,
+  "updated_at": "2026-06-15T08:54:41+00:00"
 }

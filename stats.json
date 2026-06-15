@@ -16,7 +16,7 @@
     "addkey": 5,
     "8ball": 1,
     "addpremium": 5,
-    "setwelcomechannel": 1,
+    "setwelcomechannel": 2,
     "kick": 1
   },
   "love": {
@@ -30,6 +30,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 189,
-  "updated_at": "2026-06-15T08:59:41+00:00"
+  "total_commands": 190,
+  "updated_at": "2026-06-15T11:29:41+00:00"
 }

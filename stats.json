@@ -3,7 +3,7 @@
     "love": 51,
     "banned": 2,
     "roast": 73,
-    "userinfo": 13,
+    "userinfo": 14,
     "mute": 19,
     "unmute": 9,
     "clear": 7,
@@ -33,6 +33,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 238,
-  "updated_at": "2026-06-16T21:26:01+00:00"
+  "total_commands": 239,
+  "updated_at": "2026-06-16T21:31:01+00:00"
 }

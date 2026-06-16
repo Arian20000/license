@@ -1,6 +1,17 @@
 {
   "entries": [
     {
+      "action": "unmute",
+      "moderator": "denari_24",
+      "moderator_id": "623910555479965715",
+      "target": "brucelee0788",
+      "target_id": "1152026090592813086",
+      "reason": "No reason provided",
+      "detail": null,
+      "guild": "ETW Chill Zone",
+      "at": "2026-06-16T15:12:09+00:00"
+    },
+    {
       "action": "mute",
       "moderator": "faiii27",
       "moderator_id": "1259398417910726656",
@@ -177,5 +188,5 @@
       "at": "2026-06-03T17:30:02+00:00"
     }
   ],
-  "updated_at": "2026-06-16T15:11:19+00:00"
+  "updated_at": "2026-06-16T15:12:09+00:00"
 }

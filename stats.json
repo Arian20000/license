@@ -17,7 +17,8 @@
     "8ball": 1,
     "addpremium": 6,
     "setwelcomechannel": 2,
-    "kick": 1
+    "kick": 1,
+    "ads": 3
   },
   "love": {
     "uses": 50,
@@ -30,6 +31,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 196,
-  "updated_at": "2026-06-16T06:54:41+00:00"
+  "total_commands": 199,
+  "updated_at": "2026-06-16T09:26:49+00:00"
 }

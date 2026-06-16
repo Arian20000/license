@@ -19,7 +19,7 @@
     "setwelcomechannel": 2,
     "kick": 1,
     "ads": 14,
-    "rolls": 3
+    "rolls": 9
   },
   "love": {
     "uses": 50,
@@ -32,6 +32,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 226,
-  "updated_at": "2026-06-16T17:27:02+00:00"
+  "total_commands": 232,
+  "updated_at": "2026-06-16T17:32:02+00:00"
 }

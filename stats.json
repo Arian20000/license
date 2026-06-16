@@ -4,7 +4,7 @@
     "banned": 2,
     "roast": 72,
     "userinfo": 13,
-    "mute": 17,
+    "mute": 19,
     "unmute": 7,
     "clear": 6,
     "help": 1,
@@ -31,6 +31,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 218,
-  "updated_at": "2026-06-16T17:00:20+00:00"
+  "total_commands": 220,
+  "updated_at": "2026-06-16T17:05:20+00:00"
 }

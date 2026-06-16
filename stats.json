@@ -6,7 +6,7 @@
     "userinfo": 13,
     "mute": 19,
     "unmute": 9,
-    "clear": 6,
+    "clear": 7,
     "help": 1,
     "owner": 7,
     "joke": 2,
@@ -20,7 +20,7 @@
     "kick": 1,
     "ads": 14,
     "rolls": 9,
-    "roast-baho": 1
+    "roast-baho": 2
   },
   "love": {
     "uses": 50,
@@ -33,6 +33,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 233,
-  "updated_at": "2026-06-16T17:47:48+00:00"
+  "total_commands": 235,
+  "updated_at": "2026-06-16T18:01:01+00:00"
 }

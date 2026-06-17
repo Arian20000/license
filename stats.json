@@ -20,7 +20,7 @@
     "kick": 1,
     "ads": 14,
     "rolls": 9,
-    "roast-baho": 5
+    "roast-baho": 6
   },
   "love": {
     "uses": 50,
@@ -33,6 +33,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 239,
-  "updated_at": "2026-06-16T21:31:01+00:00"
+  "total_commands": 240,
+  "updated_at": "2026-06-17T07:51:01+00:00"
 }

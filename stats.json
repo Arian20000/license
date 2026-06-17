@@ -23,7 +23,7 @@
     "roast-baho": 6,
     "addrole": 1,
     "removerole": 1,
-    "prison": 8,
+    "prison": 9,
     "unprison": 5
   },
   "love": {
@@ -37,6 +37,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 257,
-  "updated_at": "2026-06-17T14:31:43+00:00"
+  "total_commands": 258,
+  "updated_at": "2026-06-17T14:56:43+00:00"
 }

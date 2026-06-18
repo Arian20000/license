@@ -8,7 +8,7 @@
     "unmute": 9,
     "clear": 7,
     "help": 1,
-    "owner": 8,
+    "owner": 9,
     "joke": 2,
     "ask": 4,
     "settranslatechannel": 2,
@@ -37,6 +37,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 258,
-  "updated_at": "2026-06-17T14:56:43+00:00"
+  "total_commands": 259,
+  "updated_at": "2026-06-18T08:11:43+00:00"
 }

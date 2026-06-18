@@ -1,6 +1,6 @@
 {
   "commands": {
-    "love": 51,
+    "love": 52,
     "banned": 2,
     "roast": 73,
     "userinfo": 14,
@@ -27,8 +27,8 @@
     "unprison": 5
   },
   "love": {
-    "uses": 50,
-    "avg_pct": 61.4,
+    "uses": 51,
+    "avg_pct": 61.8,
     "max": 100,
     "min": 0
   },
@@ -37,6 +37,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 260,
-  "updated_at": "2026-06-18T08:16:43+00:00"
+  "total_commands": 261,
+  "updated_at": "2026-06-18T09:41:43+00:00"
 }

@@ -20,7 +20,7 @@
     "kick": 1,
     "ads": 14,
     "rolls": 10,
-    "roast-baho": 6,
+    "roast-baho": 7,
     "addrole": 1,
     "removerole": 1,
     "prison": 9,
@@ -37,6 +37,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 259,
-  "updated_at": "2026-06-18T08:11:43+00:00"
+  "total_commands": 260,
+  "updated_at": "2026-06-18T08:16:43+00:00"
 }

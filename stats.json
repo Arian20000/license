@@ -2,7 +2,7 @@
   "commands": {
     "love": 52,
     "banned": 2,
-    "roast": 75,
+    "roast": 76,
     "userinfo": 15,
     "mute": 19,
     "unmute": 9,
@@ -20,7 +20,7 @@
     "kick": 1,
     "ads": 14,
     "rolls": 10,
-    "roast-baho": 8,
+    "roast-baho": 10,
     "addrole": 1,
     "removerole": 1,
     "prison": 11,
@@ -37,6 +37,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 271,
-  "updated_at": "2026-06-19T16:01:43+00:00"
+  "total_commands": 274,
+  "updated_at": "2026-06-19T16:06:43+00:00"
 }

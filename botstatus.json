@@ -1,7 +1,7 @@
 {
   "online": true,
-  "uptime_seconds": 201904,
-  "latency_ms": 158,
+  "uptime_seconds": 202204,
+  "latency_ms": 176,
   "guilds": 2,
   "user": "PANORAMA#5727",
   "commands": 0,
@@ -9,5 +9,5 @@
   "translate_channels": {
     "1510676659383042269": 1512355008513970276
   },
-  "updated_at": "2026-06-19T20:16:43+00:00"
+  "updated_at": "2026-06-19T20:21:43+00:00"
 }

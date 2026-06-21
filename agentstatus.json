@@ -2,9 +2,9 @@
   "agent_online": true,
   "bot_running": true,
   "power": "running",
-  "pid": 23096,
+  "pid": 16356,
   "restarts": 0,
   "alerts_enabled": true,
   "last_alert": null,
-  "updated_at": "2026-06-21T15:14:25+00:00"
+  "updated_at": "2026-06-21T15:19:45+00:00"
 }

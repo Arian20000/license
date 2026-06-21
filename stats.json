@@ -21,11 +21,11 @@
     "ads": 14,
     "rolls": 10,
     "roast-baho": 10,
-    "addrole": 1,
+    "addrole": 2,
     "removerole": 1,
     "prison": 11,
     "unprison": 6,
-    "play": 10
+    "play": 12
   },
   "love": {
     "uses": 51,
@@ -38,6 +38,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 284,
-  "updated_at": "2026-06-21T15:14:29+00:00"
+  "total_commands": 287,
+  "updated_at": "2026-06-21T15:19:29+00:00"
 }

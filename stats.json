@@ -25,7 +25,8 @@
     "removerole": 1,
     "prison": 11,
     "unprison": 6,
-    "play": 12
+    "play": 16,
+    "skip": 1
   },
   "love": {
     "uses": 51,
@@ -38,6 +39,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 13,
-  "total_commands": 287,
-  "updated_at": "2026-06-21T15:19:29+00:00"
+  "total_commands": 292,
+  "updated_at": "2026-06-21T15:24:50+00:00"
 }

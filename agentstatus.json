@@ -1,10 +1,10 @@
 {
   "agent_online": true,
-  "bot_running": false,
-  "power": "stopped",
-  "pid": null,
+  "bot_running": true,
+  "power": "running",
+  "pid": 12136,
   "restarts": 0,
   "alerts_enabled": true,
   "last_alert": null,
-  "updated_at": "2026-06-22T08:44:49+00:00"
+  "updated_at": "2026-06-22T08:44:57+00:00"
 }

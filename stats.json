@@ -29,7 +29,8 @@
     "skip": 3,
     "nowplaying": 5,
     "volume": 3,
-    "stop": 2
+    "stop": 2,
+    "resume": 1
   },
   "love": {
     "uses": 51,
@@ -42,6 +43,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 14,
-  "total_commands": 348,
-  "updated_at": "2026-06-22T10:57:56+00:00"
+  "total_commands": 349,
+  "updated_at": "2026-06-22T11:07:56+00:00"
 }

@@ -19,13 +19,13 @@
     "setwelcomechannel": 2,
     "kick": 1,
     "ads": 14,
-    "rolls": 10,
+    "rolls": 11,
     "roast-baho": 10,
     "addrole": 2,
     "removerole": 1,
     "prison": 12,
     "unprison": 6,
-    "play": 74,
+    "play": 75,
     "skip": 7,
     "nowplaying": 7,
     "volume": 3,
@@ -43,6 +43,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 15,
-  "total_commands": 379,
-  "updated_at": "2026-06-22T12:38:54+00:00"
+  "total_commands": 381,
+  "updated_at": "2026-06-22T12:43:54+00:00"
 }

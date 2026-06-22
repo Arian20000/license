@@ -23,7 +23,7 @@
     "roast-baho": 10,
     "addrole": 2,
     "removerole": 1,
-    "prison": 12,
+    "prison": 13,
     "unprison": 6,
     "play": 105,
     "skip": 10,
@@ -44,6 +44,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 15,
-  "total_commands": 416,
-  "updated_at": "2026-06-22T15:54:13+00:00"
+  "total_commands": 417,
+  "updated_at": "2026-06-22T20:49:13+00:00"
 }

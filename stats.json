@@ -6,12 +6,12 @@
     "userinfo": 15,
     "mute": 19,
     "unmute": 9,
-    "clear": 7,
+    "clear": 8,
     "help": 1,
     "owner": 9,
     "joke": 2,
     "ask": 5,
-    "settranslatechannel": 5,
+    "settranslatechannel": 6,
     "translate": 1,
     "addkey": 9,
     "8ball": 1,
@@ -25,8 +25,8 @@
     "removerole": 1,
     "prison": 12,
     "unprison": 6,
-    "play": 60,
-    "skip": 3,
+    "play": 61,
+    "skip": 6,
     "nowplaying": 5,
     "volume": 3,
     "stop": 3,
@@ -43,6 +43,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 14,
-  "total_commands": 355,
-  "updated_at": "2026-06-22T11:22:56+00:00"
+  "total_commands": 361,
+  "updated_at": "2026-06-22T11:43:54+00:00"
 }

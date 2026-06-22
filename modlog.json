@@ -4,6 +4,17 @@
       "action": "clear",
       "moderator": "denari_24",
       "moderator_id": "623910555479965715",
+      "target": null,
+      "target_id": null,
+      "reason": null,
+      "detail": "Deleted 10 message(s) in #informa\u021bii generale",
+      "guild": "Translate for French baho minki",
+      "at": "2026-06-22T11:40:46+00:00"
+    },
+    {
+      "action": "clear",
+      "moderator": "denari_24",
+      "moderator_id": "623910555479965715",
       "target": "PANORAMA#5727",
       "target_id": "1209534668417011783",
       "reason": null,
@@ -243,5 +254,5 @@
       "at": "2026-06-03T17:30:02+00:00"
     }
   ],
-  "updated_at": "2026-06-16T17:55:35+00:00"
+  "updated_at": "2026-06-22T11:40:46+00:00"
 }

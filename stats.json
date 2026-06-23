@@ -25,13 +25,13 @@
     "removerole": 1,
     "prison": 13,
     "unprison": 6,
-    "play": 126,
+    "play": 127,
     "skip": 12,
     "nowplaying": 8,
     "volume": 4,
     "stop": 6,
     "resume": 1,
-    "leave": 1,
+    "leave": 2,
     "clearqueue": 1
   },
   "love": {
@@ -45,6 +45,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 15,
-  "total_commands": 445,
-  "updated_at": "2026-06-23T11:09:13+00:00"
+  "total_commands": 447,
+  "updated_at": "2026-06-23T11:34:13+00:00"
 }

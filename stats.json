@@ -22,7 +22,7 @@
     "rolls": 11,
     "roast-baho": 10,
     "addrole": 2,
-    "removerole": 1,
+    "removerole": 2,
     "prison": 13,
     "unprison": 6,
     "play": 205,
@@ -45,6 +45,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 15,
-  "total_commands": 534,
-  "updated_at": "2026-06-24T13:59:18+00:00"
+  "total_commands": 535,
+  "updated_at": "2026-06-24T20:21:35+00:00"
 }

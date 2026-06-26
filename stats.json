@@ -26,7 +26,7 @@
     "prison": 13,
     "unprison": 6,
     "play": 232,
-    "skip": 18,
+    "skip": 19,
     "nowplaying": 8,
     "volume": 6,
     "stop": 7,
@@ -45,6 +45,6 @@
     "avg_pct": 64.5
   },
   "unique_users": 15,
-  "total_commands": 564,
-  "updated_at": "2026-06-26T13:26:35+00:00"
+  "total_commands": 565,
+  "updated_at": "2026-06-26T13:36:35+00:00"
 }

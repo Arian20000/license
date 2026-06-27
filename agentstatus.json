@@ -5,6 +5,10 @@
   "pid": 22928,
   "restarts": 1,
   "alerts_enabled": true,
-  "last_alert": null,
-  "updated_at": "2026-06-27T05:35:49+00:00"
+  "last_alert": {
+    "kind": "errorspike",
+    "message": "6 errors within 300s.",
+    "at": "2026-06-27T05:38:48+00:00"
+  },
+  "updated_at": "2026-06-27T05:38:48+00:00"
 }
